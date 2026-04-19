@@ -3,9 +3,6 @@
 # Zalan Khan
 📍 Peshawar, Pakistan &nbsp;|&nbsp; Machine Learning · Python · Data Analysis
 
-[![GitHub followers](https://img.shields.io/github/followers/khanzalan?style=flat&color=0969da&labelColor=1c2128)](https://github.com/khanzalan?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=khanzalan&style=flat&color=0969da)](https://github.com/khanzalan)
-
 </div>
 
 ---
