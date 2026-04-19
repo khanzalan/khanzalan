@@ -7,7 +7,7 @@
 
 ---
 
-I'm learning machine learning by building projects end-to-end — data cleaning, modeling, evaluation, and saving. Currently focused on classical ML with scikit-learn.
+I'm learning machine learning by building projects end-to-end — data cleaning, modeling and evaluation. Currently focused on classical ML with scikit-learn.
 
 ---
 
